@@ -1,3 +1,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = git@github.com:dolartand/innowise-user-service.git
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:dolartand/innowise-auth-service.git
