@@ -7,3 +7,9 @@
 [submodule "order-service"]
 	path = order-service
 	url = git@github.com:dolartand/innowise-order-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:dolartand/innowise-api-gateway.git
+[submodule "payment-service"]
+	path = payment-service
+	url = git@github.com:dolartand/innowise-payment-service.git
